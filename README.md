@@ -6,6 +6,7 @@
 **Result/Key Takeaways:** We used backward stepwise regression model, using lagged values and seasonality, to forecast the production volume for Feast. Our predictive model had an accuracy of 92.85% and could explain 92% of the variations in the past months’ production volumes. Given the expenditure on consumer and dealer promotions, we predicted the production volume as January 1988 will be within the range 501189 ± 75595 units (95% CI).                   
 
 **Poject Details:** <br/>
+Individual Project<br/>
 ECON 5100 <br/>
 Statistical Application and Quantitative Methods <br/>
-Individual Project 
+ 
