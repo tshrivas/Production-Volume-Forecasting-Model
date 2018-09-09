@@ -7,4 +7,4 @@
 
 **Project Details:**<br/>
 Project Type: Individual<br/>
-Course: ECON5100 (Statistical Application and Quantitative Methods)
+Course: ECON 5100 (Statistical Application and Quantitative Methods)
