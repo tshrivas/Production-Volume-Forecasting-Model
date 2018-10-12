@@ -1,5 +1,5 @@
 
-![](https://github.com/tshrivas/Production-Volume-Forecasting-Model/blob/master/Plot3_Predicted_vs_Actual.png)
+![](https://github.com/tshrivas/Production-Volume-Forecasting-Model/blob/master/Header.png)
 
 **Objective:** Predict production volume for Feast, a ready-to-eat breakfast cereal brand from Bakeman Foods, based on last five years’ data on shipments, expenditure on consumer and dealer promotions, and seasonal effects on shipment of breakfast cereals, in the US. Discuss the findings in a non-technical, management memo and a detailed technical report.        
 
